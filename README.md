@@ -1,6 +1,8 @@
 # Epilepsy Extension
 
-1. Add to chrome extensions
+1. clone repo
 
-2. Click the icon
+2. go to `chrome://extensions/` click add unpacked and load this folder
+
+3. Click the icon
 
